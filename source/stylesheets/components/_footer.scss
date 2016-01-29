@@ -1,0 +1,45 @@
+.site-footer {
+  background: $light-gray;
+  width:100%;
+  max-height: rem-calc(130);
+  display: inline-block;
+  //border-top: 1px $dark-gray solid;
+  //box-shadow: $subtle-inner-shadow;
+
+  &__wrapper {
+    @include grid-row();
+  }
+
+  &__linkedin {
+    padding: rem-calc(16 0);
+    height: auto; 
+    width: auto; 
+    max-width: rem-calc(24); 
+    max-height: rem-calc(24);
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  &__copyright {
+    @include grid-column($columns: 6);
+    padding: rem-calc(24 0 8); 
+    float: none;
+    margin: auto;
+
+      @media #{$small-only} {
+        @include grid-column($columns:10, $offset:1);
+        text-align: center;
+
+      }
+
+
+    span {
+      font-size: rem-calc(14);
+      font-weight: $font-weight-light;
+      font-family: $body-font-family;
+      padding: rem-calc(0 10 0);
+
+    }
+  }
+}

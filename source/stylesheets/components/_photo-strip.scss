@@ -1,0 +1,48 @@
+.photo-strip {
+  //box-shadow: $subtle-inner-shadow;
+  //background-attachment: fixed;
+  background-position: 50% 10%;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  padding: rem-calc(72 0);
+  min-height: rem-calc(300);
+ 
+  &__text {
+    @include grid-row();
+
+
+    h1, h2 {
+      margin: rem-calc(32 0);
+      color: $white;
+      font-family: $font-family-photo-strip;
+      font-weight: $font-weight-bold;
+      //text-shadow: $subtle-text-shadow;
+    }
+  }
+
+  &--showcase {
+    min-height: rem-calc(300);
+    margin-top: rem-calc(40);
+    margin-left: 15%;
+    margin-right: 15%;
+    border: solid $mid-gray 1px;
+  }
+
+  &--hero {
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: rem-calc(72 0);
+    min-height: rem-calc(300);
+    background-position: 50% 35%;
+  }
+
+  &--page-header {
+    min-height: 0;
+
+    h1 {
+      line-height: 1;
+    }
+  }
+}

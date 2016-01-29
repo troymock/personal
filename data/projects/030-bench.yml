@@ -1,0 +1,19 @@
+name: Angular Bench
+image: project-images/bench.jpg
+tagline: Purity of intersecting angles
+hero_image: project-photos/bench-hero.jpg
+description: "<p>Inspired by a basketweave pattern, I created this bench with the idea of central ascension from the intersection of mirrored angles. The bridging tubes act as structural members as well as form various geometries against the rectangular legs.</p>"
+more:
+ nice:
+  info: "Hand built using coldsaw, manual milling machine, MIG welder, orbital buffer <br> Steel tubing and flat bar, stained cherry and poplar wood | 48in x 16in x 22in"
+
+photos:
+ - url: project-photos/bench-1.jpg
+   des: 
+   description: ""
+ - url: project-photos/bench-2.jpg
+   des: 
+   description: ""
+ - url: project-photos/bench-3.jpg
+   des: 
+   description: ""

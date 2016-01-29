@@ -1,0 +1,28 @@
+name: Salesforce Lightning Dash
+image: project-images/dash.jpg
+tagline: Gamification of the Salesforce Lightning Design System
+hero_image: project-photos/dash-hero.jpg
+description: "<p>Interning with the UI department of Salesforce over the summer of 2015, I was tasked with creating a quiz-like gamification for the unveiling of their Lightning Design System. This project was aimed to educate Salesforce users about the possibilities of the Design System. I researched, ideated, and designed all facets of the game– from the screen layout to award system and animation.</p> <p>There are three game types: general multiple choice, timed memory, and timed multiple choice.</p>"
+photos:
+ - url: project-photos/dash-1.jpg
+   des: 
+   description: "Multiple choice game type"
+ - url: project-photos/dash-2.jpg
+   des: 
+   description: "Correct answer animation"
+ - url: project-photos/dash-3.jpg
+   des: 
+   description: "Wrong answer animation"
+ - url: project-photos/dash-7.jpg
+   des: 
+   description: "Intermediate completion page"
+ - url: project-photos/dash-4.jpg
+   des: 
+   description: "Timed memory card game type"
+ - url: project-photos/dash-5.jpg
+   des: 
+   description: "Flipped memory card"
+ - url: project-photos/dash-6.jpg
+   des: 
+   description: "Timed multiple choice game type"
+impact: 

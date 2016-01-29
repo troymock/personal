@@ -1,0 +1,82 @@
+.about {
+	
+	.boxes {
+		@include grid-column($columns:10, $offset:1);
+		padding: rem-calc(50 0 40);
+		@media #{$small-only} {
+			@include grid-column($columns:11, $offset:.5);
+			padding: rem-calc(20 0 10);
+		}
+	}
+
+	hr {
+		margin-top:0;
+		margin-bottom: rem-calc(7);
+	}
+	h3 {
+		margin-bottom: rem-calc(4);
+	}
+
+	.boxes li {
+		list-style-type: none;
+		margin-left: rem-calc(-15);
+
+		@media #{$small-only} {
+			line-height: rem-calc(18);
+			margin-bottom: rem-calc(5);
+		}
+
+	}
+
+	.boxes ul {
+		@media #{$small-only} {
+			margin-top: rem-calc(10);
+		}
+	}
+
+	a {
+		color: $mid-gray;
+	}
+	
+	.box {
+		@include grid-column($columns:6);
+		padding-right: 5%;
+		@media #{$small-only} {
+			@include grid-column($columns:8);
+		}
+		
+
+		&-interests {
+		@include grid-column($columns:3);
+		@media #{$small-only} {
+			@include grid-column($columns:3.5, $offset:.5);
+		}
+
+		}
+
+
+		&-skills {
+		@include grid-column($columns:3);
+		@media #{$small-only} {
+			@include grid-column($columns:3.5, $offset:.5);
+		}
+
+		}
+	}
+
+	.image {
+		@include grid-column($columns:4, $offset:1);
+		margin-bottom: rem-calc(50);
+		@media #{$small-only} {
+			@include grid-column($columns:11, $offset:.5);
+			margin-bottom: rem-calc(20);
+		}
+	}
+	.box-main {
+		@include grid-column($columns:5, $offset:1);
+		float: left;
+		@media #{$small-only} {
+		@include grid-column($columns:11, $offset:.5);
+		}
+	}
+}

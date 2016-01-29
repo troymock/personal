@@ -1,0 +1,46 @@
+.works-page {
+	
+	  .works-list {
+    @include grid-column($columns:10, $offset:1);
+    padding-bottom: rem-calc(40);
+    display: flex;
+    flex-wrap: wrap;
+    float: none;
+    @media #{$small-only}{
+      @include grid-column($offset:.5);
+      padding-top: rem-calc(20);
+    }
+
+
+    &__project {
+      margin: rem-calc(60 50 10 0);
+      width: rem-calc(300);
+      @media #{$small-only}{
+        margin: rem-calc(30 0 10 0);
+      }
+
+      &__image {
+        width: rem-calc(300);
+        height: rem-calc(300);
+        background-size: cover;
+
+
+      }
+
+      &__text {
+        float: left;
+       // width: percentage(4/6);
+        //padding-left: rem-calc(16);
+      }
+
+      &__name {
+        margin-top: rem-calc(5);
+      }
+
+      &__tagline {
+        font-size: rem-calc(16);
+      }
+    }
+  }
+}
+	

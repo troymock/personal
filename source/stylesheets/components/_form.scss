@@ -1,0 +1,3 @@
+.form { 
+  @include form($full-width: true, $radius: false);
+}

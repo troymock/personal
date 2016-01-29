@@ -1,0 +1,26 @@
+name: Endgame v2
+image: project-images/endgame2.jpg
+tagline: Complete rebuild focused on efficiency
+hero_image: project-photos/endgame2-hero.jpg
+description: "<p>The revision for Endgame aims to improve on the flaws of the original design. Namely, the instability caused by the gyroscopic forces of such a large blade, and the decreased driving maneuverability due to the friction of the front wedges against the arena floor. The custom 3.5in asymmetric disc reduces Endgame’s center of gravity, and the non-recessed blade allows easier weapon contact with the opponent. Also, the single weapon tooth of the blade increases weapon bite for maximum damage.</p>"
+more:
+ nice:
+  info: "2nd place Sonoma Ant Wars 2014 <br> Built using waterjet cutter, manual milling machine, bandsaw, lathe, drill press <br> Grade 5 titanium, heat-treated 4130 steel, ultra high molecular weight plastic, aircraft grade aluminum | 6in x 7in x 3.5in"
+
+photos:
+ - url: project-photos/endgame2-1.jpg
+   des: 
+   description: ""
+ - url: project-photos/endgame2-2.jpg
+   des: 
+   description: ""
+ - url: project-photos/endgame2-3.jpg
+   des: 
+   description: ""
+impact:
+  video:
+    title: "Watch Endgame in Action"
+    url: "https://www.youtube.com/embed/iJAdr1lLtIw"
+ # video:
+  #    title: "Endgame vs Captain Crunch"
+   #   url: "https://www.youtube.com/embed/hgQZ3W7QWu0"

@@ -1,0 +1,21 @@
+name: Coffee Table
+image: project-images/table.jpg
+tagline: Organized synthesis of symmetry and asymmetry
+hero_image: project-photos/table-hero.jpg
+description: "<p>This table attempts to reconcile a tad of disorder in an entirety of order. The rectangular tabletop with a steel frame radiates simplicity and structure. However, the symmetry begins to fade underneath as the table legs protrude inward at different angles.</p>"
+more:
+ nice:
+  info: "Hand built using table saw, planer, MIG welder, orbital buffer <br> Plywood legs with mahogany veneer, cherry and poplar tabletop, steel frame | 42in x 22in x 15in"
+photos:
+ - url: project-photos/table-1.jpg
+   des: 
+   description: ""
+ - url: project-photos/table-3.jpg
+   des: 
+   description: ""
+ - url: project-photos/table-4.jpg
+   des:
+   description: ""
+ - url: project-photos/table-2.jpg
+   des:
+   description: ""

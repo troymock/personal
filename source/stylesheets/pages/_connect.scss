@@ -1,0 +1,39 @@
+.connect {
+
+	.box-logo {
+		@include grid-column($columns:2.5, $offset:.5);
+		padding-top: rem-calc(80);
+		float: right;
+		padding-bottom: rem-calc(40);
+		@media #{$small-only} {
+			display: none;
+		}
+
+
+		img {
+			
+		}
+	}
+
+	
+	.box-main {
+		@include grid-column($columns:8, $offset:1);
+		margin-bottom: rem-calc(-22);
+		overflow: hidden;
+		@media #{$small-only} {
+			@include grid-column($columns:12, $offset:0);
+			margin: rem-calc(0);
+		}
+
+		& h4 {
+			padding: rem-calc(30 0 0);
+			padding-left: 22%;
+			font-weight: $font-weight-normal;
+		@media #{$small-only} {
+		@include grid-column($columns:10, $offset:1);
+		text-align: center;
+
+		}
+		}
+	}	
+}

@@ -1,0 +1,21 @@
+name: Treehouse
+image: project-images/treehouse.jpg
+tagline: Expansive views and integrated structure in a limited footprint 
+hero_image: project-photos/treehouse-hero.jpg
+description: "<p>This design aims to maximize floor space and natural light in the single room of the treehouse. The angle of the front sloping wall is carried through the structural members to maintain visual consistency.</p>"
+more:
+ nice:
+  info: "Archival board, balsa veneer, acetate, opaque plastic sheet, graphic tape | ¼in scale, 11in x 8.5in x 12in"
+photos:
+ - url: project-photos/treehouse-1.jpg
+   des: 
+   description: ""
+ - url: project-photos/treehouse-3.jpg
+   des: 
+   description: ""
+ - url: project-photos/treehouse-2.jpg
+   des: 
+   description: ""
+ - url: project-photos/treehouse-4.jpg
+   des: 
+   description: ""

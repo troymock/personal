@@ -1,0 +1,24 @@
+@import "page.settings";
+@import "foundation/scss/foundation";
+
+
+@import "components/button";
+@import "components/footer";
+@import "components/header";
+@import "components/photo-strip";
+//@import "components/box";
+//@import "components/type";
+
+@import "pages/about";
+@import "pages/connect";
+@import "pages/index";
+@import "pages/project";
+@import "pages/works";
+@import "pages/writing";
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}

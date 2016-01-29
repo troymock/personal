@@ -1,0 +1,68 @@
+.writing {
+	
+	.works {
+		@include grid-column($columns:10, $offset:1);
+		margin: rem-calc(60 0 50);
+		float: none;
+		display: flex;
+		flex-wrap: wrap;
+		//align-items: flex-start;
+		@media #{$small-only} {
+			@include grid-column($columns:11, $offset:.5);
+			margin: rem-calc(40 0 10);
+
+		}
+
+	}
+
+	.work__photo {
+		width: rem-calc(300);
+		height: rem-calc(300);
+	}
+
+
+	.essays {
+		@media #{$medium-up}{
+		padding-right: rem-calc(50);
+		}
+	}
+
+	.stories {
+		@media #{$medium-up}{
+		padding-right: rem-calc(50);
+	}
+	}
+
+	.articles {
+		//float: right;
+
+	}
+
+
+	h3 {
+		//text-align: center;
+		padding-top: rem-calc(10);
+		font-family: $font-family-photo-strip;
+		padding-bottom: rem-calc(20);
+	}
+
+	dt {
+		font-size: rem-calc(18);
+	}
+
+	dd {
+		padding-bottom: rem-calc(10);
+		font-size: rem-calc(16);
+	}
+
+	a {
+		color: $dark-gray;
+		transition: all 200ms;
+
+		&:hover {
+            //background: $keppel-tint;
+            color: $mid-gray;
+          }
+	}
+	
+}

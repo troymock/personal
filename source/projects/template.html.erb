@@ -1,0 +1,44 @@
+<% content_for(:title, project.name) %>
+
+<div class="photo-strip--hero" style="background-image: url(/images/<%= project.hero_image %>)">
+	<div class="photo-strip__text">
+		<h1><%= project.name %></h1>
+	</div>
+</div>
+
+<div class="projects__content">
+	<article class="description">
+		<h4>Description</h4>
+		<%= project.description %>
+	</article>
+
+	<article class="info">
+		<% if project.more 'nice' %>
+		<h4>Info</h4> 
+		<%= project.more.nice.info %>
+		<% end %>
+	</article>
+
+
+
+	<div class="gallery">
+		<% project.photos.each do |i| %>
+		<figure>
+			<%= image_tag i.url %>
+			<p class="gallery__description"><%= i.description %></p>
+		</figure>
+		<% end %>
+	</div>
+
+	<aside class="impact">
+		<% if project.impact 'video' %>
+		<article class="impact__video">
+			<h4 class="impact__video__title"><%= project.impact.video.title %></h4>
+			<div class="impact__video__container">
+				<iframe width="rem-calc(420)" height="rem-calc(315)" src="<%= project.impact.video.url %>" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</article>
+		<% end %>
+	</aside>
+
+</div>

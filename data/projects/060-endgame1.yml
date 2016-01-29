@@ -1,0 +1,22 @@
+name: Endgame v1
+image: project-images/endgame1.jpg
+tagline: First iteration of my 1lb combat robot
+hero_image: project-photos/endgame1-hero.jpg
+description: "<p>The design for Endgame centers around its 5.5in titanium spinning bar. This bar spins at 5000rpm, or 80 revolutions a second, to transfer its kinetic energy into its opponent. The front titanium wedges are angled to scoop and lift the opponent into the spinning blade. There are a number of custom details in the design, such as the pocketed weapon shaft that acts a structural frame member, and the wheels that are recessed for protection. </p>"
+more:
+ nice:
+  info: "1st place Junior League Robogames 2013 <br> Built using manual milling machine, bandsaw, lathe, drill press <br> Grade 5 titanium, ultra high molecular weight plastic, aircraft grade aluminum | 7in x 5in x 6in"
+photos:
+ - url: project-photos/endgame1-1.jpg
+   des: 
+ - url: project-photos/endgame1-2.jpg
+   des: 
+   description:
+ - url: project-photos/endgame1-3.jpg
+   des: 
+   description:
+impact:
+  video:
+     title: "Watch Endgame in Action"
+     url: "https://www.youtube.com/embed/MQP_eo4FIQc"
+

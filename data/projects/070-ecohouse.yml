@@ -1,0 +1,33 @@
+name: Eco House
+image: project-images/ecohouse.jpg
+tagline: Maximizing views and minimizing space
+hero_image: project-photos/ecohouse-hero.jpg
+description: "<p>I designed this house in architecture studio for a specific site on Yerba Buena Island adjacent to San Francisco, with expansive views of the Bay and of the Golden Gate Bridge. The house makes use of sustainable features such as passive ventilation and directional tree cover. The floor to ceiling windows on the first floor help connect the interior with the exterior, and the second story bedrooms directly face the most picturesque views.</p>"
+more:
+ nice:
+  info: "Archival board, balsa veneer and sheet, acetate |  1/8in scale, board 19in x 15in"
+photos:
+ - url: project-photos/ecohouse-1.jpg
+   des: 
+   description: ""
+ - url: project-photos/ecohouse-2.jpg
+   des: 
+   description: ""
+ - url: project-photos/ecohouse-3.jpg
+   des: 
+   description: ""
+ - url: project-photos/ecohouse-4.jpg
+   des:
+   description: ""
+ - url: project-photos/ecohouse-5.jpg
+   des: 
+   description: ""
+ - url: project-photos/ecohouse-6.jpg
+   des: 
+   description: ""
+ - url: project-photos/ecohouse-7.jpg
+   des: 
+   description: ""
+ - url: project-photos/ecohouse-8.jpg
+   des:
+   description: ""

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="176px" height="177px" viewBox="0 0 176 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="final" sketch:type="MSArtboardGroup" transform="translate(-43.000000, -40.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(43.000000, 40.000000)">
+                <polygon id="Triangle-177" fill="#B5DBEF" sketch:type="MSShapeGroup" transform="translate(110.906250, 46.836609) scale(1, -1) translate(-110.906250, -46.836609) " points="117 0.673217773 152.019409 69.6687622 69.7930908 93 "></polygon>
+                <polygon id="Triangle-177" fill="#A3BDC4" sketch:type="MSShapeGroup" transform="translate(117.003574, 117.502378) scale(1, -1) translate(-117.003574, -117.502378) " points="92 59 142.007149 75.62994 142.007149 175.890121 116.970089 126.012009 92 176.004756 "></polygon>
+                <polygon id="Triangle-177" fill="#A3BEC4" sketch:type="MSShapeGroup" transform="translate(71.500000, 115.678864) scale(1, -1) translate(-71.500000, -115.678864) " points="58 60.5897827 85 55 85 176.357727 58 176.357727 "></polygon>
+                <path d="M50.9736328,111 L149,153.700158 L50.9736328,153.700158 L50.9736328,111 Z" id="Rectangle-121" fill="#B5DBEF" sketch:type="MSShapeGroup" transform="translate(99.986816, 132.350079) scale(-1, -1) translate(-99.986816, -132.350079) "></path>
+                <polygon id="Triangle-177" fill="#CBCBCB" sketch:type="MSShapeGroup" transform="translate(162.136871, 100.858696) scale(1, -1) translate(-162.136871, -100.858696) " points="149 48.0177615 175.273743 90.7206576 175.273743 138.098862 149 153.699631 "></polygon>
+                <path d="M69.8189697,0.685424805 L149,48 L30.5050659,48 L69.8189697,0.685424805 Z" id="Rectangle-121" fill="#CBCBCB" sketch:type="MSShapeGroup"></path>
+                <path d="M9.72473812,47.9985639 L30.5,47.9985639 L30.5,55 L30.5,90.8857393 L0.565490723,90.8857393 L9.72473812,47.9985639 Z" id="Rectangle-123" fill="#B5DBEF" sketch:type="MSShapeGroup"></path>
+                <polygon id="Triangle-177" fill="#A3BEC4" sketch:type="MSShapeGroup" transform="translate(25.768586, 111.396851) scale(1, -1) translate(-25.768586, -111.396851) " points="0.548463196 131.884094 50.9887085 55.0058594 50.9887085 167.787842 30.492012 167.787842 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

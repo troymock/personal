@@ -1,0 +1,13 @@
+name: Logos
+image: project-images/troylogo.jpg
+tagline: On going collection of some of my designs
+hero_image: project-photos/logos-hero.jpg
+description: "<p>Here is a working collection of recent logos I have designed. Logos are an interesting design challenge because they embody both the physical and the essence of a brand. I strive to achieve this fine balance in my work.</p>"
+
+photos:
+ - url: project-photos/logos-1.jpg
+   des: 
+   description: "For Salesforce's Tech Ops logo redesign competition. The anchors represent the grounding nature of Tech Op's work, and the anchor rings form the Salesforce cloud."
+ - url: project-photos/logos-2.jpg
+   des: 
+   description: "For Customer2Connect, an internal Salesforce program"

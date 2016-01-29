@@ -1,0 +1,22 @@
+name: Spann Table
+image: project-images/entry.jpg
+tagline: Pursuing all considerations of design
+hero_image: project-photos/entry-hero.jpg
+description: "<p>This table combines the principles of form and function into a single object. I set out to create an object that is beautiful from all angles while still serving its purpose as an entryway table. The mahogany tabletop provides ample area for smaller items while the lower shelf is designed for papers.</p> <p>I challenged myself with the overall design and construction methods. I lasercut the pattern of different holes, inspired by the San Francisco De Young museum’s copper facade. The table legs create compound angles as they span outward from the center of the table. I used a milling machine and TIG welder to achieve the exact angles and precise welds necessary for the stability of the table.</p>"
+more:
+ nice:
+  info: "Built using laser cutter, TIG welder, manual milling machine, lathe, coldsaw, table saw, orbital planer <br> Steel tube and lasercut sheet, stained mahogany | 46in x 11in x 38in"
+
+photos:
+ - url: project-photos/entry-1.jpg
+   des:
+   description: ""
+ - url: project-photos/entry-2.jpg
+   des: 
+   description: ""
+ - url: project-photos/entry-3.jpg
+   des: 
+   description: ""
+ - url: project-photos/entry-4.jpg
+   des: 
+   description: "TIG welding jig"
