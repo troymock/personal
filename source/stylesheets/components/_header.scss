@@ -126,11 +126,11 @@
     transition: all 300ms;
     margin-top: rem-calc(4);
     padding: rem-calc(10 0);
-    color: $mid-gray;
+    color: $dark-gray;
 
     &:hover {
       background: $keppel-tint;
-      color: $dark-gray;
+      color: $mid-gray;
     }
   }
 }

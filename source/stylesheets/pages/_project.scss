@@ -57,6 +57,7 @@
    @media #{$small-only} {
      @include grid-column ($columns:12, $offset:0);
      padding-bottom: rem-calc(30);
+     overflow: hidden;
     }
 
 
