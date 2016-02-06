@@ -42,14 +42,14 @@
 		@include grid-column($columns:6);
 		padding-right: 5%;
 		@media #{$small-only} {
-			@include grid-column($columns:8);
+			@include grid-column($columns:12);
 		}
 		
 
 		&-interests {
 		@include grid-column($columns:3);
 		@media #{$small-only} {
-			@include grid-column($columns:3.5, $offset:.5);
+			@include grid-column($columns:5, $offset:.7);
 		}
 
 		}
@@ -58,7 +58,7 @@
 		&-skills {
 		@include grid-column($columns:3);
 		@media #{$small-only} {
-			@include grid-column($columns:3.5, $offset:.5);
+			@include grid-column($columns:6, $offset:.3);
 		}
 
 		}
